@@ -1,5 +1,7 @@
 # End-to-End Data Analytics Project using Excel | Personal Project
 
+![alt text](cover_photo.PNG)
+
 1. Cleaned the data by identifying and removing duplicate records and null values, and addressing inconsistent data for gender and quantity columns.
 
 2. Used Excel functions and formulas to create new features for analysis, including age buckets and month names from the date column.
